@@ -1,0 +1,851 @@
+ or can go to sleep
+But even if they were not sleeping, whatever was asleep, there is not enough time after one's death to catch up to all those who are doing much better in life, and for what?
+It is this that is to be feared
+In the end I was obliged to wait until I could get a little more sleep but the time was not of use otherwise than to send me out to observe the yearning in my soul.
+Let it be known
+ There are so many good reasons why the French could not have won Euro 2004
+I had then one night taken a box of the essence of an old bag, the same one that had been filled with little pieces of meat and sheep en route to Athens, and attached it with a fastened fastened board.
+That was not the way to handle things
+ But my next task was to pass it by and if I saw any doubts or considerations it was their fault they were forgotten
+They have no fear to me atall, I know, they know it as I know it, I know it better than I realize it, for they have gone to enormous lengths to avoid mentioning it, as I have already said.
+I don’t want to see those in charge of European football
+But the word had no meaning because of this fastened board: it was not a fastened board nor could I measure it, nor then why mention it?
+I shall be careful not to confuse two words so I shall not go ahead
+In any case it was not their fault.
+And if it were not their fault then what kind of thing was it for a fellow carrying so many things in his hands?
+It was my mother’s night that I knew
+For if I had taken the board and put it somewhere it would have no effect.
+She took me away from her
+She knows my mother’s night.
+ She won the round of fourteen games so far
+For if it had appeared from my hand there did not exist one of those who takes a sudden lighthearted bow, and without my knowing it there would have been enough time to throw herself at any one, in their turn, and not lose sight of my purpose.
+The old man is there
+’s another way.
+The old man is there too
+Let’s say he is not but there are four out there too, ths sake, I don’t know why, but God must have taken them o
+ff guard.
+Djokovic starts again
+I wouldn’t know it, if I listened to someone else, if I
+listened to anybody else.
+The next thing I knew I was on my way to the police.
+Da Genuis �nseca �nfta da Genuis
+They’re going to take me somewhere and throw me away fro
+m there, without having any advantage.
+What better to send me from Madrid a policeman than someon
+e so determined to throw me away from there the way he was
+ bringing me?
+Da Genuis �nseca �nfta
+But if it was possible to lose sight of my purpose, that�
+�s enough.
+But even if it was not, in my head.
+And if in its place some sort of chain that had been faste
+ned with nails, or a heavy object, had taken me, without m
+y knowing it, and which I had fastened, by way of affordin
+g it me, as a present for me and as something to which it
+belonged, but in reality only as a present for them, witho
+ut knowing it, when I went to put it back in their hands,
+to prevent me from going back and to secure my safety, whi
+ch they would probably take from me if I went and put them
+ there, without my knowing it, and which I would probably
+take from them again.
+And to have compelled me to go, it’s difficult to imagin
+e, by the means of a cord, a leg or all those stiffened an
+d stiffened bones from which this thing began.
+But to know not to throw off guard?
+But there must be a second.
+And this must have been the final edict.
+I must have a bicycle after the fact this year
+But in any case I put my foot in the canal, in a ditch or
+on the bank, and that was the one.
+And on the contrary, knowing the reasons of that place, I
+took the bicycle to the town guard.
+And I said, There’s no need to bother with that either.
+But that’s the trouble
+’s a good one
+So the next day I happened to find myself at the police st
+ation.
+I said, I didn’t know it, I’re so sorry.
+I
+
+[100 | 94.42] loss=2.86 avg=3.15
+Saving checkpoint\run1\model-101
+(gpt-env) PS>python generate_unconditional_samples.py --to
+p_k 40 --temperature 0.9
+2019-05-09 04:50:30.072400: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+2019-05-09 04:50:30.233695: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties:
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.582
+pciBusID: 0000:01:00.0
+totalMemory: 11.00GiB freeMemory: 9.10GiB
+2019-05-09 04:50:30.239338: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2019-05-09 04:50:30.945600: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-05-09 04:50:30.948914: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0
+2019-05-09 04:50:30.950503: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N
+2019-05-09 04:50:30.952274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 8788 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+To my mind, the night is not over yet
+What is your evening, I wonder where you got it from
+I have a hard time deciding, I wish to go out and see the circus, when I get off the train it is my pleasure to go somewhere else. But I do not want to go there.
+on the mountain side of the Bell
+The weather is nice
+I must have dug up somewhere, and I think I have dug it
+What am I doing here?
+on the bank of the Bell
+ We were together for a while and still think
+For I went to the hospital one day, and I am quite certain that everything went according to plan in the old hospital, except that there was a little guy there.
+hear she come
+ It is good to get confirmation
+I was also surprised to have to get a policeman to take me to her house, for I didnt find out what she was going to do with me.
+on the mountainside
+ I think we got along well in that one
+It is true, the old hospital was a horrible place for me, and there were no priests, but Ive never been in one.
+his chair he must be dead
+ It was fantastic to go out there and see him again
+I found him after my absence and I said, I wonder where he got this old skull.
+his leg must be dead
+ As I said it was very good to get confirmation
+But if I was going to go there, I would have to run.
+whees my pallida
+It is good to know that I have something to answer for
+I am far from certain, though I do believe that there is a great deal of mystery buried under these big old bones, and I am almost certain that there are more beneath, that there are many of them, in spite of the great height, and that it is useless to confuse them.
+whees my baculum
+ I think its time for the ambulance service
+They are enormous, and you get that feeling when you have a big body, you get it fast.
+but where to be
+ We used to hang out together
+But Ive never been in a big body, and I dont know how else to describe that feeling.
+on the hillside
+ But Im a bit anxious to see what Im finding
+It is a hill, an old hill, it is not clear whether it is a little hill or a lot, and Ive never been in a lot, and I do not know how else to describe it.
+and the big old mancave
+ Its good to have confirmation there is a major rebuilding of the hospital
+And one day, when I get home from my holiday I will see my head, my head is still there, it is nearly gone, there is another one at the other end of the hill, it looks a little less, as it were, and I cant quite see it, though I am told it is still there.
+to see if its the right hill
+ I cant remember when the surgery was used the right one
+In any case they didnt do it, it seems that the surgeon is a man, perhaps a little boy, perhaps he is, perhaps I am, he may be, perhaps I am, if he is willing to take me, perhaps I am.
+whees my baculum
+ The next day
+It is a long hill.
+and the great white seal
+ Ive been in this shit in the past and didnt even know it was possible
+Yes, it is a hill like these, the one in which the hymen is still the longest, it is no longer there.
+but where is the water
+ Its nice to know they dont have to make a fuss about the money
+It is no longer there, nor is it in any way possible, but perhaps my memories of it are still fresh, no, I was at some other time, perhaps there is some other place I could go and get some fresh memory of it.
+but the old stick
+ Im excited about it
+It is only afterwards that I know what happened.
+and the big old woman stoop
+ Its a big step forward but still needs to be done the way it was done
+Ive got no idea what they were doing there, though I had forgotten where I had left off, but one thing in particular seems to have caught me up, namely, that of one of the nurses.
+with a glass and the other ways to the hills
+ Its good to have confirmation
+I cant remember what happened to me, though I have forgotten where I had left off.
+I must be the one holding the glass
+ Its good to have confirmation
+I had a bad back then and I cant remember what happened to me, though I am quite certain there is someone still alive, perhaps somewhere, to take me, bury me and carry me to the vet, all things considered.
+but the other ways
+ Its good to be in touch with
+The Russian
+I need to get this shit off my hands
+Pysky, I say, said the American
+ I mean Im not going to say where he got his money
+I am not going to say, for I have to insist, that that has nothing to do with me now, I have it now, and I am now a good man, and I have it now for the money I have, which is no less than I have it now, or at least for the better.
+spoke as if he were going to see a football match in this weekend
+ Thats a little better than it looks
+And where can I find it?
+He must have been in the same boat as I
+I say it is better not to think of it, for one day we shall see it, or somewhere.
+Thats a little worse than it looks
+ But he is in the right boat as far as I know
+He is in the position I said I was, I said, when I say I, a good man, and I am now a good man.
+and that to a man it seems
+ Im happy to leave it to him
+I mean that this is not about me.
+and that to a good man
+ Now the Russian sees the trouble
+It would be better not to think of it, for one day I shall have to go on the road, and this one comes close.
+and that to a good man
+ But before I know it I will have to see how I behave
+Then there is the matter of whether I find it natural to say that I am happy and that the contrary is so dangerous that I shall behave in such a way as to be sure.
+tired of my mother,
+ So ofall the European Championships held that took place last year
+And then of all this I shall get out of a hat and hang another, in the same way.
+I must go and get my clothes
+ I had to do it
+I must get out of it.
+It is better not to think of it
+ I mean that I must be doing it now
+And then I must have said, it should have been better not to think of it.
+It should have been wiser to hang me instead
+ I don’t know how I got here
+It was worse to hang, I didn’t say, and then to hang me?
+And that I must have said, this time,
+I cannot go to see her
+And what is worse, that these things must have been done, when I was still fifteen, fifteen and nineteen years old, still alive, and yet not yet dead, I wonder what they said.
+with his trousers undone
+ Ive been living the same way for less than a year
+Then I was still alive and that’s the way it was, what was the point?
+And then that’s it, I forget.
+saying I must go because I cant get on the road
+ Ive been living the same way for almost a year
+I could not be wrong, if I was.
+and that’s it.
+I didnt think Im going to be able to get on the road
+I dont know, it’s all I have, and I am still alive, so it’s what.
+I dont know, I cant get on the road because Im in a panic
+Ah I thought I was going to be able to get through here and I was soon overtook by all the convulsive forces of nature, the storm, the rain, and the heavy gorse-glasses.
+this
+ But Ive had a couple of months to get used to it the old fashioned way
+And the storm and gorse-glasses, the two that shook this country so that they shook the whole body, which was only five feet high, and which was so heavy that even the earth itself was shaken, I lost my footing and bounced back.
+this
+ But Im happy to go
+I am.
+ashen smooth the face
+ But with the crowd and the police at risk and the new
+At that speed, even the earth itself began to tremble.
+with his trousers undone
+ If you dont like it Im going to sell it
+And then, with such a rapid march it was almost too dangerous to proceed.
+this is it
+ We have to get rid of these clowns and get rid of Gerrard
+And the earth shook, I lost my balance and landed on the topmost slope I had ever known.
+this
+ There was an urgent need to get rid of these clowns and get rid of Gerrard
+But for that, I took off my hat and exclaimed, in a low voice,
+Him the old way!
+this is it
+ Ive never seen this kind of crowd before in my life
+Which is to say, that’s what they were all saying.
+
+by
+
+In the same way as I have made a dog-eared hat, I shall make a dog-eared hat for myself, the most difficult business I have ever undertaken.
+
+by
+
+Every dog is different
+
+It was a year ago when I began to think that I was going to be a dog breeder, in the autumn of that year.
+
+by
+
+I could make it though I took it up my nose
+
+It has not happened in a generation, I think I would have been greatly improved, if I had given only a few days to get rid of it.
+
+by
+
+I need to think if I am going to be consistent
+
+For I shall know when I shall be consistent in that I shall have to know before I am consistent again.
+
+by
+
+I do not want to look good in this
+No, I don’t want to look good in this, no, I want to think I’ve got it, and I shall be consistent again, for me, and I shall be consistent again.
+
+by
+
+I don’t want to wear this
+
+For I don’t know how to carry it even when I am carrying it with me, and it’s a good thing to carry it with me, in case I have to carry it.
+
+by
+
+I am a big guy and I wear this
+
+I am not, I mean I don’t know how to carry it, but I mean that it’s useless to carry it with me, and there’s no telling when I need to carry it.
+
+by
+
+The most difficult part
+
+For I can never be certain, and one day I shall be certain, of what kind of thing, when I needlessly carry it, and when I needlessly carry it without a necessity, if it are not uncertain, and so where only uncertain things end.
+
+by
+
+I don’t want to look good in this
+
+That’s only sensible that’s sensible, and so it was with this question, I know, of knowing why I need to use this little box.
+
+By virtue of this question
+
+But I’ve never had this kind of question, or thought of it, and the only answer I have is that it’s a matter of faith, and that’s what I used to do.
+
+by
+
+In any case I’ve got it
+
+For when I’ve left the room, a man comes and knocks on the door, and me alone, unmoving, standing still for me.
+
+By virtue of this question
+
+He is a gentleman, I know, he’s a gentleman, I know, but I don’t forget’ing to mention he’s a gentleman, and yet he seems to know me, and I know that at the same time.
+
+by
+
+But the first step is not for every one
+
+And then to my surprise, as I left the room and tried to pass the time, he came later, I wasn’t sure, to say that he’s come later, but I’ve forgotten to mention it, or that’s good enough, doesn’t matter to me either, for I’ve never called upon it, and he came later because of his good health and so on, I don’t remember.
+
+by
+
+But he’s a gentleman
+
+And so forth, I think, the first step is not for every one, which is probably a little better, if you like, I suppose, then, since the first one is probably best avoided.
+
+and all that
+
+And if you’re willing to deal with it, and I don’t mean that’s an unreasonable burden, no, it’s not unreasonable, yes, you’re willing to do it, but perhaps there’s more than one way.
+
+and all that
+
+That’s all I know.
+
+by
+
+It’s only me, isn’t it?
+
+and all that
+
+He just came, it’s just about the right thing to do and it’s what I’ve been doing all my life, and so on, I should say, and nothing in particular has happened.
+
+and all that
+
+So far I’ve dealt with it’s too easy to deal with it, and nothing quite so drastic as the easy deal of dealing with it
+The Irishman joined up with Tottenham over a fee of around US$1m
+But it is for you that I shall find out, in the next few days.
+Doubtless the man who can keep you in this team
+Dundee paid the fee in
+Yes.
+Thats the gist of it
+ I am really not a fan of the idea
+Thats it.
+What a pity we have to wait
+ We have to wait for a team who can be able to sign a player of good quality and not only that but two strikers too.
+I will wait
+ I have no idea how we know he can still play and he is doing great too but I am very happy
+Yes.
+the first two stages or so of the race are not far off
+ We have so far been able to sell and he is very good in these races
+Yes.
+and if you sell on that, then it becomes a bargain.
+that is more like a manna
+ I am not sure how far we cant go with this guy
+I declare that the best interest of the player is in being able to go and sell, and if he is not an excellent manager he is neither, nor one who can be succeeded.
+and if we do not sell, he can neither sell nor buy
+ I cannot help it
+But he is good enough to go and so far away from the business of any business that one would have no difficulty in obtaining one, if he were still in his late thirties.
+and so far away from the business of any business
+ If he were still in his thirties I wouldn’t have a problem
+He doesn’t need one.
+his eyes filled
+ His mother was also in the right
+We must be realistic, in this case, and only then can we assess the effect he will have on our business.
+he who rescues
+ My attitude towards players is more or less the same as that of a pro in that regard
+Now there was an obvious one.
+if you dont sell he can only be achieved by selling
+ But it’s a strange question then.
+his
+It’s good to have a little bit of the right players
+But we must give him credit for the fact that we have a lot more to offer and that he has begun to realize this fact very early on
+Yes, he began to realize this fact earlier than ever before.
+and then there
+ A few days back I saw him at Birmingham and he said that I looked good
+And now he is seeing, with a very realisation, that my appearance was no doubt partly a result of irritation with myself.
+his eyes full of glass
+ Everybody knows I don’t play well.
+at least that’s what I thought it would be
+ There is no doubt that I’ve got enough players here to run this club and that if it were up to me I would put away the idea.
+in the dark
+ We will see how it goes
+It would be a good idea if we went out and got transfer targets early on
+But if I did not do this, perhaps I’ve got some useful information for you.
+that’s what I thought it was going to be
+The only way we could have met a successful meeting was if we went out and got strikers.
+I thought it would be good to have a window into how these players behave
+But you may be right, in that case, that’s the same as the other possibilities.
+what is it good manners for a player to know there is only one player
+ If I’re trying to get information that there are only one or two strikers then that’s fine, the only way for me would be by playing.
+with the windows back up to heaven
+ We have to go out and get strikers
+But the thing is I can don’t get out and go abroad, I’ve never gone through this trouble before.
+I can only hope
+ You can wait and see the club before you make any decision about which players will be taking part
+But perhaps it’s better.
+with the window up to heaven
+ But we have to wait and see how this goes
+In any case it’s wrong, the window can only be opened at the end of the season and it’s not clear whether I’m putting it in effect or not.
+I wonder what that is all about
+ Its not always possible though Im very optimistic about this part
+But the window, if it is opened, is opened, when it is opened, to see what is going on.
+what is it like to live and work in a country where they have no laws
+ But I don’t think this would be a very nice plan
+But I never
+in her place the sun setting
+ The night the priests and the laymen came and cried
+So the question is, if it is a question, how to answer the question?
+who in his right mind shall speak of him
+ It was great honour for me to compete and I didn’t think I would be able to get
+But on that first occasion it was the mother of all, that is, the mother of all questions, the question of identity.
+you shall be loved by him in return for your good behaviour
+ I think it was the right decision
+And now that I have spoken to the mother, I shall reply to that question.
+myself she before you she before You
+ He is a great lad I am very happy at home with him
+But if it was a question of identity, I won’t be surprised if it were the question of I mean that I don’t distinguish between and between and between and between and between and between.
+you shall be loved by him for your good behaviour
+ I think it would be difficult to prosecute
+I am not sure it is possible to distinguish between and between between and between and between, between and between.
+you shall be loved by him for all he has done to me
+ I think it is possible to prosecute
+But in such a case it’s impossible to distinguish between and between, between and between, between.
+you shall be loved by him for all you have done to me
+ There is no contest to that
+Now that this is a question of fact and not of contrivance, I realize that it is impossible to resolve it.
+you shall be loved by him for all his works to be presented
+ But the question of identity, if properly resolved, has no possibility of resolution otherwise than as an aid in gathering the evidence
+But the evidence I had gathered, and I did not have time to gather all that was necessary to answer it, and that time was of little value to me, for at that moment I felt myself in a foreign land.
+you shall be loved by him for all he has done to me
+ If it seems that if I were to respond to all these questions I’d be left confused I’ve thought of it.
+you shall be loved by him for all that he is doing to mollify the people
+ In the meantime the other priests who were present kept a low mood and were in no mood to deal with my questions, I suppose, I suppose.
+who shall speak of him
+ But in the end I got to the point
+And yet the fact is that it seems to me that what Ive been saying ought to have been understood, and I mean that if I meant it I oughtn’t have meant it.
+was there not the temptation to pass the time between statements so simple as those on the table
+ But before we go further I must have done enough
+But I never went through the trouble of understanding them myself.
+you shall be loved by him for all he has done to me
+ I think it would be sensible enough to leave that to the court and not prosecute
+That’s not to say there wasn’t a difference between statements like that and those made as such, and yet I’d have to be consistent in my statements.
+on the other hand
+ It’s the least of my problems
+But if so it’s not for the fault of my statements.
+you shall be loved by him for everything that he is doing
+ If I’re able to explain everything to the judge I should understand it
+But no, I’ve never been able to, I’ve always confused statements with inferences and hypotheses, and I justly so that I have to refer to them as I did so before I had so much trouble with inferences and hypotheses.
+you shall be loved by him for everything that he is doing
+In any case I don’t know what to do with that.
+you shall be loved by him for everything he has done to me
+ I know someone has been toil hard on this point by their silence
+Ah, this is a common occurrence with this family of priests in that I mean those priests are often silent, which is not the way I view it, at least I don’t, in the end.
+in a place full of the dead
+I don’t say it often, I just say it, as if it were so easy.
+somewhere out there in a field
+ It’s better not to go than to stay
+I’ve never felt this, I’ve never felt this, I’ve never felt this, and yet I’ve never felt this, for the reasons that underlie them, from the beginning.
+a
+
+Golgotha will go to Middlesbrough on a free transfer
+
+It was a dream come true he said, I think I said I said we are going to go to Liverpool, I said that we are going to Liverpool, it was false.
+
+who cares what other people think
+
+It was a night so far away I hadn’t seen him, I had seen him a few times and he was a bit of a dream.
+
+the moon will set at midnight and there is little in the way of signifying time
+
+He seemed to know me, I seemed to know him, even though I had never spoken with him, I could hardly have known him, neither of them, but of him I had forgotten, I had forgotten him, I could hardly have said, I must have said, he must have known, then of course I don’t know if I’re saying either, or one.
+whence the sun
+
+For they were in such a panic he said
+
+But he would have known me, I had forgotten, I’ve forgotten, he must have known, the other thing was I don’t know either.
+soon to set
+
+I am in so much pain He could probably have killed himself
+
+I’ve hardly known him, I’ve hardly said.
+soon to pass
+
+He must have understood I said and I’ve forgotten
+
+I’ve never forgotten, I’ve forgotten.
+soon to shine in the dark
+
+I’ve known him all my life, I can’t deny he was a very very happy man.
+soon to shine in the hot old woman was a real pleasure to see she is still alive
+
+It’s the same thing sometimes when I’ve been able to get out of the house in the night.
+soon to shine in the hot old woman was of good cheer for her mother
+
+But I’ve never forgotten him.
+he that is
+
+For his papers are expensive and he would like to keep them
+
+And the papers’s in that blackest darkness.
+before the storm shall set
+
+For he said it was so difficult to get him out of the house
+
+I’ve never forgotten him, I’ve forgotten if I’ve meant to forget me.
+quickly to move out of the house
+
+I’ve got to get him out sooner or later
+
+I’ve got to get him out sooner or later.
+quick to get out of the way
+
+He also received two rucksackfuls of sand from his department store, one for me, one for my dog and the other for my dog, I’ve got to be close to there.
+quick to get out of the way of a wild boar on the canal-bank
+
+But I want to get him.
+ashen smooth the face
+
+Is this what it seemed like he could stay at home
+
+He was good to go, he was happy, he had a good time.
+quick to be in a situation that makes you think you’re only in it for a second
+
+Let me know, I’ve got to know him and I don’t know why.
+quick to be able to stay where he is
+
+The trouble is that you are only in it for a second.
+quick to be clear about leaving the country
+
+Then I took it seriously and I said, well then it’s not good enough by taking the dog.
+quick to be clear about leaving the country
+
+What we said again I said, well then I’ve got to know him and he wasn’t good enough either.
+quick to have enough of the silence
+
+and it’s almost as if he didn’t know what he was talking about
+
+But what am I saying, he said?
+ashen smooth the face
+
+What would you do if I told you that you had to go?
+quick to be clear about leaving the country
+
+And if you told me that I had to stay if I wanted to know if I had a second opinion on everything, then I’ll say that’s enough.
+quick to be sure of knowing whether to go or not
+
+I’ve never been one to say whether I’ve got to stay.
+quick to know what kind of person you are
+
+And I’ve only been in it a few times, if I’ve been surprised.
+quick to know that there is no time for us
+
+I’ve
+If you listen to me I can hardly be understood, I am an old man.
+this
+I will make sure she can live with it
+I have so far only made two and I think we might triple the number
+We could use another one, we could even triple it
+So where is everything going?
+it’s raining
+ There are few men like my
+Let’s try to get her somewhere, or both, I suppose.
+spoke in the womens
+ It will still happen
+But in the end the womens are far too smart to have done with a word.
+and in the pit of the liffey
+ It will be smart to keep both of them, she can live with them
+That’s not enough, a good many of them.
+and in the depths of the womens
+ The question is not just one of time
+Perhaps if they didn’t want to spend the rest of their lives in that pit, perhaps they could have gone on their way, away from the town, perhaps, in the winter, perhaps?
+on the tarmac
+ But if they do not get over that it’s highly likely they will never have a lawyer
+It’s not clear.
+an old man on the brink of madness
+ I think she is still alive and willing
+But if they don’t get in the way of that, then she’s too old for lawyers.
+I have no memory of it
+It’s a decision which I will try not to come up with.
+and all the spirits of the dead on the brink of the town
+ If I had an answer to that I would give it
+The trouble is that’s all I remember.
+without having seen it all
+ There are lots of things I would try not to go the way of a deadman
+Ive never been able to remember everything, if I mean merely by it, and yet I can’t help it.
+the dead in the ditch
+ It’s difficult to be intelligent on this subject
+I mean that’s how it is in our times, that’s how it was in the old days.
+and the viper’s scythe against the wall
+ We are facing a very difficult situation and that’s a pity
+I have always felt I had only one answer for a certain question, namely, that of the question of why.
+this
+ I am not a fan of this whole way of things
+I’ve always felt if I talked to someone about this I wouldn’t be able to bring myself to say anything.
+and under a rock
+ The question at hand is whether it really matters what its subject is
+We’re facing two major problems, one at the moment where I have absolutely no knowledge, and another where it’s irrelevant whether I speak or write, for I can’t.
+I am a stranger
+ It will be a difficult decision for me given the circumstances
+For what?
+this is the bargain
+ I would never sell this kind of stuff
+I’ve never been able to speak English, a foreign tongue, for example.
+this life and one soul a couple of feet away from me
+ She will have to wait and see if I can do it
+I’ve always understood that question to be a non-starter in my head.
+now and then
+ I would have no problems putting her in touch with a friend
+That’s all I know.
+then and there
+ I am unsure if I could do this
+Was that all?
+that the water is raining down
+ But I think she would have a chance of winning and if so how
+The question of the bargain is a very different one, for how can you think of this, if you’re so inclined, with regard to the question of whether you’re talking about a bargain or not?
+and now and there
+ Maybe it’s better to have a judge.
+and there
+The question of innocence and guilt is far more delicate than this.
+who are you
+ I think so
+It’s a bargain, that’s all I can say.
+so he says so he will
+ He’s only talking of a bargain, I mean perhaps he’s thinking of other things.
+that
+ I just can’t talk of this one
+I’ve always had the same feeling.
+who are you
+ I’ve never had problems and would be happy if there were
+For I’ve always managed to think of other possibilities, and of what I could do.
+who are you and it will be better said
+I was wrong about that
+I said,
+What a relief then to have discovered that the fault lay not with me but with my mother, whose ruined house, far from its beauty, was far from it, for a mother without it was a garden, far from its beauty, far from its beauty, far from its beauty.
+And if I would have taken her away,
+And how great a relief then to have seen the woman in her thong,
+and that,
+That was the night for me,
+But now the day,
+It was perhaps a better night that I had forgotten.
+It was the same night in the old house
+That seemed to me the right night,
+and the wrong night,
+All along the road I heard the clattering of fetishes, like fetishes.
+Doubtless she must be dead,
+I thought.
+What shall I do?
+She must be dead,
+And she must be dead,
+For I remembered the door was shut for me.
+I thought.
+Then I remembered.
+And again I thought.
+And it was she who had killed me, I thought then.
+But there is no mystery in the thought.
+And so then I thought.
+But there is no mystery in the thought.
+And in the thought she must have killed me.
+And I shall not forget all my memory.
+And she must have killed me,
+At this I understood.
+Was she not buried too?
+She must have been buried too,
+And I saw her there again.
+What shall I do?
+Now she must have died,
+And I shall not forget all my memory,
+And I shall not forget all its memories.
+And so I must have buried her too,
+I shall not forget this either.
+Then I shall know how the grave is cleared,
+Then I shall know how it is dug,
+And here I have to be told which of these I have made an exception.
+She must have buried her too.
+And I shall have to think of that too.
+And then I shall know her reasons for putting me out of business.
+And they shall tell me why.
+And I shall find her.
+and then I shall know her reasons for putting me out of business.
+Then I shall know her reasons for putting me out of business.
+Now I shall know all that for certain,
+She must have buried me too.
+Now I shall know that too.
+Then I shall know how the grave is cleared,
+And then I shall know what it is dug for,
+And I shall be informed on that if I am not told that, that is no reason for bothering.
+and that too.
+And so I shall know the reasons why she put me out of business
+And I shall know in due course,
+And then shall I know how the grave is cleared,
+And again I shall know the reasons why she put me out of business
+My name is Catherine.
+and then I shall know the reasons why she put me out of business
+And in due course.
+I remember how that played out.
+Then I shall know that too.
+Then I shall know the reasons why she put me out of business
+And I shall be told on that then at least,
+And as for those reasons,
+I am a gentleman of good will and good will of me and I trust in God.
+And it is the fault of the present generation.
+And the next generation.
+And I shall have to go and recover from them all their money too soon.
+But now the only way out of this is by force.
+But I shall have to go and recover from them all their money too soon.
+And then I shall have to go and make peace with them for ever.
+I shall have to go and find out how to fix the date
+ I shall have to find out how to fix the date
+It wouldn’t be useful to me.
+and then I shall have to go and have to go and to get out of all the muck I had sucked up on the road by the way
+I’ve got to be serious.
+this too, the future of racing
+And if I don’t get out there,
+and now I have to find out how to bury it
+And if I don’t come out there,
+and then I will have to deal with it myself,
+and now.
+the future of the motor
+It seems to me that the date in each of these cases is irrelevant.
+and then we shall know what it is.
+and then we shall see which can hold the better time<|endoftext|>In this July 20, 1989 file picture, a man is seen entering a public room after a gun was discharged in the mouth of a dog at the Bedfordshire townhouse
+
+I don’t know how
+A team of British and Irish workers were among a throng of about half a dozen journalists at the weekend, after a week of training in the south Wales town of Birmingham.
+Sheffield Wednesday striker Gary Neville joined the Sport Five programme
+The BBC Sport Sport panelists were from Sheffield United, AC Milan, AC Milan and AC Milan.
+I don’t know how to express it, but you get that
+The crowd in the middle of the road rose to a sudden thunder.
+I don’t know how to say it, but you get that
+ We were surprised and surprised by the number of people making the decision
+There were a couple of hundred policemen, but they were not there at the time.
+For once the moon was seen and there was a sudden thunder
+ It was a good sign for Sheffield United they had a bit of a fight
+I looked up and down and there was a few police cars ahead of me.
+It is strange, you can get a lot of police, the better to have policemen in the middle of the road rather than behind the policeman waiting for a signal.
+ I hope I get a lift in time
+ But the plan was to have it all the way to the Olympic stadium
+An enormous crowd was watching the road, watching the sky, seeing nothing.
+Inside there were rotten eggs
+ The decision was still being taken
+I know how it is for Sheffield United and for AC Milan.
+Inside there are rotten eggs
+ But the Olympic stadium is in Birmingham
+I get that there is no formal code.
+But my head is full of eggs
+ But the decision was still being taken
+Let me have one, then, that I will think of, so that it will have to be the right code.
+I can’t go fast I know
+ AC Milan are also in Birmingham for the European Championships.
+I can’t go fast
+ I want to win in Sheffield
+And I’ve got one, in spite of the hat, so that people will think of.
+I can’t go fast
+I have been told it will be big
+The way the hat was torn it was big enough to hug, the hat was too big to carry, so that I wore it.
+But I can’t go fast
+ The world champion got a good start
+I wouldn’t put that on him.
+It is a fantastic example of American enthusiasm
+I would have never set an example like this.
+The other day I went to the hospital
+I would have never been a fan of drugs, I would have never been a fan of the police.
+There was a big moment where all I remember was talking
+The ambulance was already full and there was nobody in the car, so I went to the door.
+No one I know was in that position
+ There was a big moment where I cried and cried and cried and cried,
+But I am not used to it
+People were watching me, watching me with their long-forgotten eyes, I could just as easily have seen them, but I wouldn’t stoop that far.
+It takes one to be American and get an American name
+I could probably be American if I’d allude to that part of the world where the only trace of American is the rueful cloven streets of the great metropolis, the ruins of the great convulsive train.
+But the American must be American
+But that’s a different matter.
+It was said the BBC said the Olympics would have one day a correspondent
+But in reality that’s a different matter.
+But the American must be American
+’I’ve got nothing worse for the bawl in the room than a question.
+m for seconds
+ It is said that Britains will win the m hurdles
+But it’s said I must have had an American mother.
+s for second
+ The whole world had a look of relief at the BBC Sport panelist
+But that’s not the point.
+t for seconds
+ The rest is history said the BBC
+And the thing is, it’s said, that a mother must always be able to have one.
+’I can’t see why not
+and seconds.
+In the end I would have made all the difference
+’So why not make one, right?
+In the end I’ve seen better days and I’ve seen more and more clearly that mother of God has not always been the right woman.
+’And what difference does mother make to the question of this question, in spite of the great many circumstances that have raised doubts and which have been resolved?
+’And if it seemed to me it’s better to have both, that would be a difference
+Dollhouse
+
+What a nice evening it was!
+my mother
+
+What a nice evening!
+and mother
+
+For so much more, a sad morning without words!
+asleep and asleep still
+
+So much so, I can hardly have seen that evening, at least, because of poor eyesight!
+the sun in the mist
+
+It is a good evening for the town
+It was a good evening even if I had to confess a little, and even if I had to confess a little, a little before the hour came when I was unable altogether to see.
+I couldnt wait till I had seen her
+What better time to make up my mind now as I have to-day!
+and mother
+
+Ive seen this evening on public roads
+Yes, it was a little dark, it must have been dark, no, it must have been, I suppose, a few feet away, in the far distance, watching me closely, a boy in his thilke and button-down, I presume, or perhaps both, watching me, observing me from afar.
+And so it went, I suppose.
+the young man in black in the middle of a field
+ We cant all have a good time in that kind of situation
+No, it’s not clear, a man, I don’t know him quite so myself.
+who now lives in the shadow of a ditch and who
+ I have a lot easier targets in mind when it comes to making up my mind than before.
+then again
+ There is no way Ive got this far
+Ive tried a few people, Ive tried a few different ways of finding the name he used to address himself, and I can’t find it either, and so I have to go on saying.
+I cant wait for the name and shall I come up with a better one
+ Maybe I can finally get him to tell me what he means and then when he does tell me, what he’s talking about, how he’s talking and what he’s talking about, I’ve got no better idea.
+and then there
+ So I can’t wait for it, I mean at least for now, if I’ve got him, to get the chance to give me a better answer.
+and then there
+ There are good reasons for that
+But since that’s what I’ve said, what’s the point of the marathon anyway?
+and then there
+ Ive run it better in the past four or five months
+My reasons for setting out this way of thinking are not easy to discern.
+why don’t be silly
+ Its not easy to describe what Ive gone through
+And if I’ve tried to lay down some common sense perhaps I’ve failed and I’re only a little bit wiser.
+
+
+why don’t be silly
+But in the end what will I know by the end and what kind of a man?
+I got so much better news Thanou had told me
+But it’s strange.
+where are the hawks
+ I didnt say what he was talking about
+And if I’ve succeeded in putting it into practice, what is the point of running through it anyway?
+where were the hawks
+
+
+and the others
+ It must have been such a strange weekend for the athlete
+So I think I’ve put myself in the position where I have until then gone through the longest weekend of my life, at least.
+and the others
+ So I can’t be sure that he meant what he said the only thing it could be said he was speaking on his bicycle
+It’s a nice evening, a tranquil evening out.
+then again
+But that’s what its about
+At least for me the running was less a threat to my health than to my life.
+but a fly caught up in the thicket
+ Its nice to finally have that right
+In the end, I was less certain.
+why don’t be silly
+ Its like being in Switzerland Ive tried and failed
+I didn’t know anything about running but I understood it better than most.
+where is the hawks
+ I didnt see any of that
+There I was, leaning against a tree, in the middle of a deserted street, a police car, the smell of burning tyres blowing, which was hardly uncommon.
+where the hawks
+ Sometime in the early afternoon I ran into two men
+What was different was that they were all men, young and old, with grey hair, and I wore a plain-coated coat.
+and the others
+ And now for the trial and verdict
+As for the other man,
